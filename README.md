@@ -46,6 +46,10 @@ The best_pair_for_all function iterates over a list of stock tickers and time in
 ## Results
 The script prints the best SMA pair (short SMA, long SMA) and the final cash position for each specified stock ticker and time interval.
 
+## Presentation Slides
+
+[Download SMACO Presentation Slides](presentation.pdf)
+
 ## Disclaimer
 This script is for educational purposes only and does not constitute financial advice. Use the information at your own risk, and always conduct thorough research or consult with a financial advisor before making investment decisions.
 
